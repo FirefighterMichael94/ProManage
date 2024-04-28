@@ -1,0 +1,17 @@
+{
+  "name": "02-challenge",
+  "version": "8.2.4",
+  "description": "inquirer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.19.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.9.7"
+  }
+}
